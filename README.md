@@ -1,5 +1,6 @@
 # Covid-19 Discord Bot
-**Explanation :** This discord bot returns the overall and daily Covid-19 stats
+- **Explanation :** This discord bot returns the overall and daily Covid-19 stats
 
-## How To Use
-- type ".cov + country name" or ".cov country code"
+- **Usage** type ".cov + country name" or ".cov country code"
+  - **Example:** .cov tr
+  - **Example:** .cov turkey 
